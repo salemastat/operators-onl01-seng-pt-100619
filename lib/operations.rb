@@ -1,7 +1,7 @@
 #def if speed < 40
-#puts "unsafe"
-#else 
-##end
+puts "unsafe"
+else 
+end
 
 
 
