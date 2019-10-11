@@ -1,6 +1,8 @@
-def if speed < 40
+def unsafe?(speed)
+if speed < 40
 puts "unsafe"
 else 
+puts "safe"
 end
 
 
