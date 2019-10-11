@@ -1,4 +1,4 @@
-#def if speed < 40
+def if speed < 40
 puts "unsafe"
 else 
 end
